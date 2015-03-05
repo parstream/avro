@@ -1,0 +1,6 @@
+{"name":"firstRecord","type":"record","fields":[
+ {"name":"name","type":"string"},
+ {"name":"addressArray","type":
+  {"type":"array","items":"string"}
+ }
+]}

@@ -1,0 +1,24 @@
+{"name":"firstRecord","type":"record","fields":[
+ {"name":"arrayRecord1","type":
+  {"name":"arrayRecord1","type":"record","fields":[
+   {"name":"arrayElement1","type":
+    {"type":"array","items":
+     {"name":"arrayItem1","type":"record","fields":[
+      {"name":"arrayItem1","type":"string"}
+     ]}
+    }
+   }
+  ]}
+ },
+ {"name":"arrayRecord2","type":
+  {"name":"arrayRecord2","type":"record","fields":[
+   {"name":"arrayElement2","type":
+    {"type":"array","items":
+     {"name":"arrayItem2","type":"record","fields":[
+      {"name":"arrayItem2","type":"string"}
+     ]}
+    }
+   }
+  ]}
+ }
+]}

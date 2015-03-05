@@ -1,0 +1,3 @@
+{"name":"firstRecord","type":"record","fields":[
+ {"name":"id","type":"float"}
+]}

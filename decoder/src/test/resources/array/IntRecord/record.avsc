@@ -1,0 +1,10 @@
+{"name":"rootRecord","type":"record","fields":[
+ {"name":"recordMember","type":
+  {"type":"array","items":
+   {"name":"subRecordMember","type":"record","fields":[
+    {"name":"subRecordValue","type":"int"},
+    {"name":"ksdjfh","type":"int"}
+   ]}
+  }
+ }
+]}

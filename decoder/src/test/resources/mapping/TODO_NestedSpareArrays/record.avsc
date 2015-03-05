@@ -1,0 +1,4 @@
+{"name":"firstRecord","type":"record","fields":[
+ {"name":"arrayRecord1","type":{"type":"array","items":"string"}},
+ {"name":"arrayRecord2","type":{"type":"array","items":"string"}}
+]}

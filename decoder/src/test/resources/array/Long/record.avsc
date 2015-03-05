@@ -1,0 +1,5 @@
+{"name":"recordType","type":"record","fields":[
+ {"name":"recordMember","type":
+  {"type":"array","items":"long"}
+ }
+]}
