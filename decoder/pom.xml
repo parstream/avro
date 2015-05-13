@@ -4,7 +4,7 @@
 
 	<groupId>com.parstream.adaptor</groupId>
 	<artifactId>avro-decoder</artifactId>
-	<version>1.0.2-SNAPSHOT</version>
+	<version>1.0.2</version>
 
 	<name>Avro Decoder for ParStream</name>
 

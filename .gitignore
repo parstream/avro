@@ -8,3 +8,7 @@ dependency-reduced-pom.xml
 .project
 .settings/
 workspace/
+
+# parstream example folders
+example/journals/
+example/partition/
